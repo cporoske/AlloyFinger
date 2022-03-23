@@ -70,3 +70,7 @@ npm install alloyfinger
 
 # License
 This content is released under the [MIT](http://opensource.org/licenses/MIT) License.
+
+# Quick Change
+1. This is just a test.
+2. This
